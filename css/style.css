@@ -1,0 +1,51 @@
+.c-item {
+  height: 500px;
+}
+
+.c-img {
+height: 100%;
+object-fit: cover;
+filter: brightness(0.6);
+}
+
+.c-img2 {
+  /* height: 100%; */
+  object-fit: cover;
+  }
+
+.c-item2 {
+  height: 32rem;
+  background: #777;
+  
+}
+
+
+.c-font  {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+.c-font2 {
+  font-family : 'Roboto', sans-serif;
+  font-weight: 300;
+}
+.c-font3 {
+  font-family : 'Roboto', sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+.btn-primary, .btn-primary:active, .btn-primary:visited, .btn-primary:focus{
+  background-color: #d64933;
+  border-color: #d6493390;
+}
+.btn-primary:hover {
+  background-color: #a03828;
+  border-color: #a03828;
+}
+
+.btn-primary:active {
+  background-color: #a03828;
+  border-color: #a03828;
+}
+.nodecoration {
+  text-decoration: none;
+}
