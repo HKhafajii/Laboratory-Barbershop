@@ -49,3 +49,7 @@ filter: brightness(0.6);
 .nodecoration {
   text-decoration: none;
 }
+
+* {
+  overflow: hidden;
+}
